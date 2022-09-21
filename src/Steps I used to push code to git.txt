@@ -5,4 +5,4 @@ then write git add .
 then write git commit -m "messageforcommit"
 and then git push gitrepo-url master
 
-IMP - I used main instead of master in the last command but it gave me error
+IMP - I had used main instead of master in the last command... but it gave me error
